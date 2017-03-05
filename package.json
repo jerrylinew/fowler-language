@@ -1,0 +1,18 @@
+{
+  "name": "dashboard-site",
+  "version": "1.0.0",
+  "description": "Data analytics site to keep track of potential sexual harassment online",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "chart.js": "^2.5.0",
+    "express": "^4.15.0",
+    "pug": "^2.0.0-beta11"
+  }
+}
